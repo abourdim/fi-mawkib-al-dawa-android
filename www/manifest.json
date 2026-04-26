@@ -1,0 +1,12 @@
+{
+  "name": "In the Procession of Dawah — في موكب الدعوة",
+  "short_name": "في موكب الدعوة",
+  "description": "Interactive trilingual app based on Sheikh Mohammed al-Ghazali's book on dawah, reform and social justice",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#E8EAF6",
+  "theme_color": "#1565C0",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}
